@@ -9,4 +9,6 @@ There some missing features, levels, bosses, monsters, etc..
 
 But parts of the game is still playable.
 
-Check the gif for gameplay.
+The game was completed as part of the CS4480 Capstone Project.
+
+Check the gif for gameplay (old version gameplay).
