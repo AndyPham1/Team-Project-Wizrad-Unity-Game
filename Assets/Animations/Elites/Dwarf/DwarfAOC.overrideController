@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DwarfAOC
+  m_Controller: {fileID: 9100000, guid: b6dd178b745e13342a93bd8b96c1dbd8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b2ffffb029309bc40a3189cebbaa2970, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a687362d4ee4058468ca9cb5521a2d0b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d2bfbfa802cdf64409339496de0c88cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c7500786bdc08884287332d1a07233ef, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 35c169bd238a6e943ba76896391661b5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f06f0abc7b4aadb43972b5fe46fdb9b7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: abde30932ba8d7e47a207966badd412a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f097c728e4b572545aa55af2360eadeb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ee1992247fda6e645b275e3dd2d4b9a7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a687362d4ee4058468ca9cb5521a2d0b, type: 2}
