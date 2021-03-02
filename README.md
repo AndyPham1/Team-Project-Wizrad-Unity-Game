@@ -11,4 +11,4 @@ But parts of the game is still playable.
 
 The game was completed as part of the CS4480 Capstone Project.
 
-Check the gif for gameplay (old version gameplay).
+Check the gif for gameplay (old version gameplay, aprox 3 min long).
